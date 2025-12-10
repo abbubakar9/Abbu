@@ -1,0 +1,10 @@
+streamlit==1.31.0
+moviepy==1.0.3
+Pillow==10.2.0
+tqdm==4.66.1
+edge-tts==6.1.9
+uharfbuzz==0.39.3
+freetype-py==2.4.0
+numpy==1.26.4
+aiohttp==3.9.1
+requests==2.31.0
